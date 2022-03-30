@@ -8,6 +8,8 @@ Captionly describes the images in the form of text (captions).
 
 Documented with [Colab Notebook](https://colab.research.google.com/drive/1fhOhWLsal7iWwRJaC3QJeB1T3pWsIsCc?usp=sharing)
 
+For more details [PPT link](https://www.canva.com/design/DAEr2_r7IvI/D8-57TLMQ1sYy_RMC9-cAg/view?utm_content=DAEr2_r7IvI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 -----------------------------
 ### Model Architecture:
 
